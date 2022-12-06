@@ -1,14 +1,14 @@
 
 # Freelancer App
 
-Is a mobile app using Flutter as its hybrid and easy to publish on Apple App Store and Google Play Store.
+This mobile app is developed using Flutter as its hybrid and easy to publish on Apple App Store and Google Play Store.
 
 Tested on iOS and Android.
 
 
 ## Documentation
 
-This app only consist three screen.
+This app only consists of three screens.
 
 - List of User
 - Search User
@@ -20,11 +20,11 @@ What we have on every screen.
 
 ![Screenshot](https://i.postimg.cc/HsrtGnC4/Simulator-Screen-Shot-i-Phone-14-2022-12-06-at-10-21-01.png)
 
-This screen will have all user with all the data.
+This screen will have all users with all the data.
 
 User avatar source pulled from Gravatar.
 
-To refresh for new data, just pull down the page. Red trashbin button on upper right will detele the user.
+To refresh for new data, just pull down the page. The red trashbin button on the upper right will delete the user.
 
 #### Roadmap
 
@@ -36,24 +36,24 @@ To refresh for new data, just pull down the page. Red trashbin button on upper r
 
 ![Screenshot](https://i.postimg.cc/rswLJbzj/Simulator-Screen-Shot-i-Phone-14-2022-12-06-at-10-25-45.png)
 
-Reused same data as in the List of Users.
+Reused the same data as in the List of Users.
 
 Search will query from all user data (username, email, phone number, skill sets and hobby).
 
 #### Roadmap
 
-- Search on spesific field
+- Search on specific field
 
 ### Update / New User
 
 ![Screenshot](https://i.postimg.cc/Y0HxBKQN/Simulator-Screen-Shot-i-Phone-14-2022-12-06-at-10-29-10.png)
 
-Create / update user info.
+Create/update user info.
 
 #### Roadmap
 
 - Add more Skill Sets
-- Autocomplete user type hobby
+- Autocomplete hobby input
 ## Run Locally
 
 Clone the project
@@ -71,11 +71,11 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  flutter pub get
+  npm install
 ```
 
 Start the server
 
 ```bash
-  flutter run
+  npm run start
 ```
