@@ -24,7 +24,7 @@ This screen will have all users with all the data.
 
 User avatar source pulled from Gravatar.
 
-To refresh for new data, just pull down the page. The red trashbin button on the upper right will delete the user.
+To refresh for new data, just pull down the page. The red trash bin button on the upper right will delete the user.
 
 #### Roadmap
 
@@ -42,7 +42,7 @@ Search will query from all user data (username, email, phone number, skill sets 
 
 #### Roadmap
 
-- Search on specific field
+- Search on the specific field
 
 ### Update / New User
 
@@ -53,7 +53,8 @@ Create/update user info.
 #### Roadmap
 
 - Add more Skill Sets
-- Autocomplete hobby input
+- Autocomplete hobby
+
 ## Run Locally
 
 Clone the project
@@ -71,11 +72,11 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install
+  flutter pub get
 ```
 
 Start the server
 
 ```bash
-  npm run start
+  flutter run
 ```
