@@ -1,7 +1,9 @@
 
 # Freelancer App
 
-This mobile app is developed using Flutter as its hybrid and easy to publish on Apple App Store and Google Play Store.
+Developed using Flutter as its hybrid and easy to publish on multiple platform such as Apple App Store and Google Play Store.
+
+Project structure attempt to use MVVM approach.
 
 Tested on iOS and Android.
 
@@ -10,9 +12,9 @@ Tested on iOS and Android.
 
 This app only consists of three screens.
 
-- List of User
-- Search User
-- Update / New User
+✅ List of User
+✅ Search User
+✅ Update / New User
 
 What we have on every screen.
 
